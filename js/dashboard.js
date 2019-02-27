@@ -12,7 +12,7 @@ async function main() {
     const instructions = document.querySelector('#instructions');
 
     // Subtitles Application Page
-    const obsDomain = 'https://stephenlb.github.io';
+    const obsDomain = 'https://captainsisqo.github.io';
     const obsPath   = '/twitch-tv-obs-subtitles';
 
     // Detect if speech transcription is available
